@@ -55,7 +55,7 @@ function App() {
         </Col>
         <Col xs="7" >
           <>
-            <h5 className="mb-5">Description{description}</h5>
+            {description && <h5 className="mb-5">Description: {description}</h5>}
             <GistContenList contentData={fileContent}  />
           </>
         </Col>
