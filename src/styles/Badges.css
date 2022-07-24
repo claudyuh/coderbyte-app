@@ -1,0 +1,63 @@
+.py, .cpp, .java, .ts, .js, .c, .vue, .php, .cs, .html, .css, .md, .txt, .pl, .swift, .json {
+    color: white;
+    padding: 3px 11px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.py {
+    background-color: rgb(0, 70, 174);
+}
+
+.cpp {
+    background-color: dodgerblue;
+}
+
+.java {
+    background-color: rgb(228, 103, 0);
+}
+
+.ts {
+    background-color: rgb(0, 21, 255);
+}
+
+.js {
+    background-color: rgb(204, 156, 0);
+}
+
+.c, .cs {
+    background-color: red;
+}
+
+.vue {
+    background-color: rgb(69, 142, 0);
+}
+
+.php {
+    background-color: rgb(110, 0, 118);
+}
+.html{
+    background-color: rgb(204, 156, 0);
+}
+.css {
+    background-color: rgb(110, 0, 118);
+}
+.md {
+    background-color: rgb(204, 156, 0);
+}
+
+.txt {
+    background-color: rgb(55, 55, 55);
+}
+
+.pl {
+    background-color: rgb(0, 102, 99);
+}
+
+.swift {
+    background-color: rgb(204, 126, 0);
+}
+ 
+.json {
+    background-color: rgb(95, 95, 95);
+}
